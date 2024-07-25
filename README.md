@@ -27,4 +27,4 @@ I think these visualizations would be really cool to learn how to make in python
 | Women Elected Officials      | Showcases data on elected women officials, including details like name, year, state, etc. We can use coding to analyze women's representation in government over time and also see if geogrpahic locations and the number of elected women officials are correlated. | [Dataset 1](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/CFPBRI/ER5Q7X&version=1.0&toolType=PREVIEW) |
 | Dublin trees      | This showcases data about trees in Fingal, a county in Ireland and includes data like town, species, height, tree condition, etc. Coding can be used in combination with other datasets to understand the relationship between certain aspects of tree data with environmetal factors like pollution or climate change.     |   [Dataset 2](https://data.smartdublin.ie/dataset/trees/resource/47d28489-44e5-4eee-93a8-a31e110f6cce) |
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sachigill/DH_140/main)
